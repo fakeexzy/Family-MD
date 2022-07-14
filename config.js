@@ -27,14 +27,14 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://api.xteam.xyz': 'apikeylu',
-  'https://melcanz.com': 'apikeylu',
+  'https://api.xteam.xyz': 'apikeyaine',
+  'https://melcanz.com': 'ZZBk7EBb',
   'https://api.lolhuman.xyz': 'apikeylu',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apikeylu',
-  'https://pencarikode.xyz': 'apikeylu',
+  'https://api.zeks.me': 'pais',
+  'https://pencarikode.xyz': 'apikeyaine',
   'https://hardianto.xyz': 'hardianto',
-  'https://leyscoders-api.herokuapp.com': 'apikeylu',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://api.adiofficial.xyz': 'apikey lu'
 }
 
@@ -43,11 +43,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.urlnya = "https://www.instagram.com/fakeexzy"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+6289506015374'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
